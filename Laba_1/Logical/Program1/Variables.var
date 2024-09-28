@@ -1,0 +1,9 @@
+VAR
+	Enable : BOOL;
+	Speed : REAL;
+	fb_controller : FB_Regulator;
+	fb_motor : FB_Motor;
+	fb_motor2 : FB_Motor;
+	count : REAL;
+	integrator : FB_Integrator;
+END_VAR
