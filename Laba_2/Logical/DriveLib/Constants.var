@@ -1,0 +1,8 @@
+VAR CONSTANT
+	cmd_switched_on : UINT := 7;
+	cmd_enabled : UINT := 15;
+	cmd_shutdown : UINT := 6;
+	state_disabled : UINT := 64;
+	state_ready : UINT := 33;
+	state_switched_on : UINT := 35;
+END_VAR
